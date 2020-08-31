@@ -1,0 +1,2 @@
+*{box-sizing:border-box}body{margin:0;padding:0}.container,body,html{height:100%;display:flex;justify-content:center}.keyword{outline:none;border:none;border-bottom:2px solid #4169e1;width:150px;font-size:1.063rem}.mails{flex-wrap:wrap;padding:70px 50px 50px;width:80%;text-align:left}.mails,.mails .mail{display:flex;justify-content:space-between;align-items:flex-start}.mails .mail{width:45%;background-color:rgba(204,197,197,.24);margin-bottom:70px}.mails .mail__title{margin-bottom:5px;font-size:24px;color:#2c2c2c}
+/*# sourceMappingURL=main.ea9663c9.chunk.css.map */
