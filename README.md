@@ -1,8 +1,8 @@
 ## フロントエンド課題
 
 - 以下の RESTful API からデータを習得する
-  　 - https://coding-assignment-v1.now.sh/api/v1/inbox/{id}​
-  　 - https://coding-assignment-v1.now.sh/api/v1/inbox/123456
+  - https://coding-assignment-v1.now.sh/api/v1/inbox/{id}​
+  - https://coding-assignment-v1.now.sh/api/v1/inbox/123456
 - API から習得してデータを画面に表示する
 
 - 受信箱のエイリアスと受信箱の ID
@@ -20,3 +20,8 @@
   - axios:api を read
   - jwt-decode:ペイロードを decode
   - dateformat:日付形式を変換
+
+### Published
+
+以下の URL で動作確認
+https://kimute.github.io/Frontend_test_react
